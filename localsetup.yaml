@@ -1,6 +1,6 @@
 # Suggested data paths when using GPT-NeoX locally
 {
-  "data-path": "data/enron/enron_text_document",
+  "data-path": "data/dreampressdata/ForFinetuning_text_document",
 
   # or for weighted datasets (data/dreampressdata/ForFinetuning_text_document):
   # "train-data-paths": ["data/enron/enron_text_document", "data/enron/enron_text_document"],
