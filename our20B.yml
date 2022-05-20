@@ -16,6 +16,7 @@
   # across the node boundaries )
   "pipe-parallel-size": 4,
   "model-parallel-size": 2,
+  "finetune": True,
 
   # model settings
   "num-layers": 44,
